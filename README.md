@@ -1,0 +1,2 @@
+# mechinfoBlog
+Blog for mechinfo
