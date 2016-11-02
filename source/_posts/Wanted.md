@@ -1,6 +1,6 @@
 ﻿#Wanted:科协Info组期待你的加入！
 
-<image src="http://preview.quanjing.com/ibrf001/ibxgvl01095258.jpg" height=400px width=1000px alt="introduction">
+<image src="http://preview.quanjing.com/ibrf001/ibxgvl01095258.jpg" height=100% width=100% alt="introduction">
 
 <ul>
     <li>
