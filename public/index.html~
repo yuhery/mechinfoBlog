@@ -66,7 +66,57 @@
         <section id="main">
   
     <article id="post-3D-print" class="article article-type-post" itemscope itemprop="blogPost">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  <div class="article-meta">
+    <a href="/2016/11/25/3D-print/" class="article-date">
+  <time datetime="2016-11-25T06:57:59.000Z" itemprop="datePublished">2016-11-25</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2016/11/25/3D-print/">3D打印机使用说明</a>
+    </h1>
+  
 
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="基本操作步骤"><a href="#基本操作步骤" class="headerlink" title="基本操作步骤"></a>基本操作步骤</h2><hr>
+<p>1.<strong> 启动程序 </strong><br>点击桌面上的图标,程序就会打开</p>
+<p><img src="3D-print/图标.jpg" alt="图标.jpg"></p>
+        
+          <p class="article-more-link">
+            <a href="/2016/11/25/3D-print/#more">Read More</a>
+          </p>
+        
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2016/11/25/3D-print/" data-id="civxkgeoj0000mbsmb4uy59rp" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/俱乐部文章/">俱乐部文章</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+  
+    <article id="post-LinktoCloud" class="article article-type-post" itemscope itemprop="blogPost">
+=======
+>>>>>>> dev
+>>>>>>> master
   <div class="article-meta">
     <a href="/2016/11/25/3D-print/" class="article-date">
   <time datetime="2016-11-25T06:57:59.000Z" itemprop="datePublished">2016-11-25</time>
@@ -176,6 +226,8 @@
     </div>
     <footer class="article-footer">
       <a data-url="http://yoursite.com/2016/11/14/LinktoCloud/" data-id="civxfuxgv0000fbsm0oz5hykm" class="article-share-link">Share</a>
+=======
+>>>>>>> master
       
       
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/sharing/">sharing</a></li></ul>
@@ -275,7 +327,15 @@
           </li>
         
           <li>
-
+<<<<<<< HEAD
+            <a href="/2016/11/25/Wanted/">(no title)</a>
+=======
+<<<<<<< HEAD
+            <a href="/2016/11/14/LinktoCloud/">Mechinfo学习资源长期放送中～</a>
+=======
+            <a href="/2016/11/25/Wanted/">(no title)</a>
+>>>>>>> dev
+>>>>>>> master
           </li>
         
           <li>
