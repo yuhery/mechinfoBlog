@@ -3,11 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
+<<<<<<< HEAD
+title: Hexo
+subtitle:
+description:
+author: John Doe
+language:
+=======
 title: Mechinfo
 subtitle: Welcome Home, DMEer!
 description:
 author: DME2016
 language: zh-CN
+>>>>>>> DME-info/master
 timezone:
 
 # URL
