@@ -10,7 +10,7 @@ description: 这是一篇关于3D打印机的使用说明，欢迎阅读。
 1.** 启动程序 **
 点击桌面上的图标,程序就会打开
 
-![图标.jpg](3D-print/图标.jpg)
+![图标.jpg](http://upload-images.jianshu.io/upload_images/3668025-0723fccf57c75ae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 <!-- more -->
 
