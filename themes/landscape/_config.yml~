@@ -11,13 +11,20 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: left
+sidebar: right
 widgets:
 - category
 - tag
 - tagcloud
 - archive
 - recent_posts
+
+# Sidebar
+sidebar: left
+widgets:
+- category
+- tag
+- tagcloud
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
