@@ -1,14 +1,19 @@
 ---
 title: info组网站运营成员招募
+date: 2016-12-11 18:57:00
 categories: 
 - 资讯推送
 - 招募信息
 tags: 科协学习部
+top: 3
 ---
-<h1>Mechinfo期待你的加入！</h1>
+> ### Mechinfo期待你的加入！
 
-<image src="http://img.juimg.com/tuku/yulantu/131019/328814-131019162P843.jpg" height=100% width=100%>
+<!-- <image src="http://img.juimg.com/tuku/yulantu/131019/328814-131019162P843.jpg" height=100% width=100%> -->
+![](Wanted/Wanted.jpg)
+
 <!-- more -->
+
 <ul>
     <li><h3>What is Mechinfo?</h3>
             Mechinfo由Info组开发、维护。
