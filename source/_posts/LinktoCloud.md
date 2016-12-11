@@ -5,9 +5,13 @@ categories:
 - 友情链接
 - 复习资料
 tags: 网盘链接
+top: 3
 ---
-## 需要的童鞋请自取～
-## 同时也欢迎大家贡献出自己的资源，无论学习资料还是…… :3
+> 需要的童鞋请自取～
+> 同时也欢迎大家贡献出自己的资源，无论学习资料还是…… :3
+
+<!-- more -->
+
 ---
 ## 连载系列
 ### {% link 微积分 第一季 http://cloud.mechinfo.me/index.php/f/46424 %} {% link 第二季 http://cloud.mechinfo.me/index.php/f/46400 %}
@@ -26,3 +30,6 @@ tags: 网盘链接
 ### {% link 随机数学 http://cloud.mechinfo.me/index.php/f/46407 %}
 ### {% link 数理方程 http://cloud.mechinfo.me/index.php/f/46384 %}
 ### {% link 复变函数 http://cloud.mechinfo.me/index.php/f/46416 %}
+---
+![Study hard, day-day up!](LinktoCloud/studying.png)
+

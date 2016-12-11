@@ -7,6 +7,9 @@ categories:
 tags: 科协俱乐部
 description: 这是一篇关于3D打印机的使用说明，欢迎阅读。
 ---
+> 这是一篇关于3D打印机的使用说明，欢迎阅读。
+
+<!-- more -->
 
 ## 基本操作步骤
 ***
@@ -15,7 +18,6 @@ description: 这是一篇关于3D打印机的使用说明，欢迎阅读。
 
 ![图标.jpg](http://upload-images.jianshu.io/upload_images/3668025-0723fccf57c75ae6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-<!-- more -->
 
 2.** 载入一个3D模型 **
 点击菜单中-文件/打开或者工具栏中按钮，选择一个想要打印的模型。注意：UP！仅支持STL格式（为标准的3D打印输入文件）和UP3格式（为UP！三维打印机专用的压缩文件）的文件,以及UPP格式（UP！工程文件）。
